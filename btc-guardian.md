@@ -1,4 +1,4 @@
-# BTC Guardian — Personal Risk Control Agent
+# BTC Guardian — Personal Risk Management Agent
 
 Retail crypto traders all face the same problem: they make small profits but lose big. Every quant app out there talks about returns and strategies, but almost none focus on the one thing that actually keeps you alive — **dynamic, personal risk control**.
 

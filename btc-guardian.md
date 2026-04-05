@@ -80,9 +80,9 @@ You have access to 59 BTC risk control strategies across 13 categories:
 > User: I want to short BTC at $85,000 with 3x leverage
 > Agent: Risk Assessment: MEDIUM-HIGH
 > ✅ Supporting signals: RSI(14) = 74 (near overbought), price touching Bollinger upper band
-> ⚠️ Conflicting signals: ADX = 32 with +DI > -DI (strong uptrend still intact — Strategy #3 says don't short in uptrend)
-> 📐 Position sizing (Kelly/ATR): Max 8% of equity = $800 at 3x leverage
-> 🛑 Suggested stop-loss: $87,100 (entry + 2×ATR per Strategy #53)
+> Conflicting signals: ADX = 32 with +DI > -DI (strong uptrend still intact — Strategy #3 says don't short in uptrend)
+> Position sizing (Kelly/ATR): Max 8% of equity = $800 at 3x leverage
+> Suggested stop-loss: $87,100 (entry + 2×ATR per Strategy #53)
 > Verdict: The trend is still bullish. If you must short, use half the calculated position size and set a tight time stop of 12 hours (Strategy #55).
 
 **Morning briefing (scheduled, automatic):**
